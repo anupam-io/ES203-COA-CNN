@@ -7,9 +7,7 @@
 ](https://youtu.be/3J2X-j0z2M8)
 
 ## Vivado files
- - []()
- - []()
- - []()
+ - [main execution file](https://github.com/akcgjc007/ES203-COA-CNN/blob/main/Vivado%20CNN/CNN.srcs/sources_1/new/CNN.v)
 
 ## Tips for LUT Optimization
 Here, I am mentionaing some methods for converting your C type `for-loops` into efficient `always` blocks with chaining one to another
