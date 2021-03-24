@@ -1,13 +1,12 @@
 # ES-203 Computer Oraganization & Architecture CNN on FPGA board
 ## Overview
-[Readme document](https://github.com/akcgjc007/ES203-COA-CNN/blob/main/CNN_ReadMe.pdf)
+ - [Readme document](https://github.com/akcgjc007/ES203-COA-CNN/blob/main/CNN_ReadMe.pdf)
 
 ## Video Demostration
-[Computer Organization & Architecture CNN Machine learning project on FPGA board | ES 203 Project
-](https://youtu.be/3J2X-j0z2M8)
+ - [Computer Organization & Architecture CNN Machine learning project on FPGA board | ES 203 Project](https://youtu.be/3J2X-j0z2M8)
 
 ## Vivado files
- - [main execution file](https://github.com/akcgjc007/ES203-COA-CNN/blob/main/Vivado%20CNN/CNN.srcs/sources_1/new/CNN.v)
+ - [Main Verilog CNN file](https://github.com/akcgjc007/ES203-COA-CNN/blob/main/Vivado%20CNN/CNN.srcs/sources_1/new/CNN.v)
 
 ## Tips for LUT Optimization
 Here, I am mentionaing some methods for converting your C type `for-loops` into efficient `always` blocks with chaining one to another
@@ -21,7 +20,7 @@ for(int i = 0; i<n; i++)
 }
 ```
 
-> Same process implementing using always block using a flag
+> Same process implemented using always a block & a flag
 ```
 integer i = 0, flag = 0;
 ...code
@@ -49,7 +48,7 @@ for(int i = 0; i<m; i++)
 		}
 }
 ```
-> Same process implementing using always block using a flag
+> Same process implemented using always a block & a flag
 ```
 integer i, j, flag;
 { flag = 1; }	// when required
@@ -116,5 +115,13 @@ end
           <sub><b>Unnat Dave</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="">
+          <img src="" width="100;" alt="img"/>
+          <br />
+          <sub><b>Bhavesh Solanki</b></sub>
+      </a>
+    </td>
+	  
   </tr>
 </table>
