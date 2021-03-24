@@ -1,6 +1,9 @@
 # ES-203 Computer Oraganization & Architecture CNN on FPGA board
 ## Overview
- - [Readme document](https://github.com/akcgjc007/ES203-COA-CNN/blob/main/CNN_ReadMe.pdf)
+<img src="./images/CNN_ReadMe-1.png" />
+<img src="./images/CNN_ReadMe-2.png" />
+<img src="./images/CNN_ReadMe-3.png" />
+<img src="./images/CNN_ReadMe-4.png" />
 
 ## Video Demostration
  - [Computer Organization & Architecture CNN Machine learning project on FPGA board | ES 203 Project](https://youtu.be/3J2X-j0z2M8)
@@ -79,10 +82,10 @@ end
 ```
 
 ## Outputs on FPGA board
-<img src="SimulationOutput.png" />
+<img src="./images/SimulationOutput.png" />
 
 ## Presentation poster
-<img src="CNN_CIFAR_10-1.jpg" />
+<img src="./images/CNN_CIFAR_10-1.jpg" />
 
 ## Contributors
 <table>
@@ -122,6 +125,5 @@ end
           <sub><b>Bhavesh Solanki</b></sub>
       </a>
     </td>
-	  
   </tr>
 </table>
